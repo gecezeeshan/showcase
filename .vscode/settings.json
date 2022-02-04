@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f8d9781c-86a7-49a5-87f7-ca0c0dc49177/resourceGroups/CodeStart/providers/Microsoft.Web/sites/CodeStart",
+    "appService.deploySubpath": "."
+}
